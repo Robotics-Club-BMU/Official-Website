@@ -12,7 +12,7 @@ Our goal is to encourage students to design accessible, innovative projects that
 
 ## Contributing to this Repo
 
-**1.** Fork [this](https://github.com/Coders-Evoke-Community/CodersEvoke_website/fork) repository.
+**1.** Fork [this](https://github.com/Robotics-Club-BMU/website) repository.
 
 **2.** Clone the forked repository.
 
@@ -23,7 +23,7 @@ git clone https://github.com/<your-github-username>/project_name.git
 **3.** Navigate to the project directory.
 
 ```bash
-cd CodersEvoke_website
+cd website
 ```
 
 **4.** Creating a new branch (IMP)
@@ -60,7 +60,7 @@ git push origin <branch-name>
 
 **8.** Create a [Pull Request/PR](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) !
 
-**9.** **Congratulations!** Sit and relax, you've made your contribution to CodersEvoke Website.
+**9.** **Congratulations!** Sit and relax, you've made your contribution to Robotics Club BMU Website.
 
 **Note** :
 
