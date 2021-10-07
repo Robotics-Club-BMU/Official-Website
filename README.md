@@ -23,7 +23,7 @@ git clone https://github.com/<your-github-username>/project_name.git
 **3.** Navigate to the project directory.
 
 ```bash
-cd website
+cd Official-Website
 ```
 
 **4.** Creating a new branch (IMP)
