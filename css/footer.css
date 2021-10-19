@@ -1,0 +1,30 @@
+footer {
+    background-color: #1E1E1E;
+    color: #A8A9AD;
+    position: fixed;
+    padding: 10px 10px 0px 10px;
+    bottom: 0;
+    width: 100%;
+}
+
+a i {
+    color: #A8A9AD;
+}
+
+.copyright {
+    padding-bottom: 1rem;
+}
+
+.fab#social {
+    color: #A8A9AD;
+}
+
+.fab:hover {
+    transform: scale(1.25);
+    color: white;
+    background-color: #1E1E1E;
+}
+
+.mb-4 {
+    margin-bottom: 0.75rem!important;
+}

@@ -13,6 +13,9 @@ body {
 
 .navbar {
     background-color: #1E1E1E!important;
+    position: fixed;
+    top: 0;
+    width: 100%;
 }
 
 .navbar .navbar-brand {
