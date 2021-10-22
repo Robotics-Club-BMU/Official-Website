@@ -3,12 +3,12 @@
     font-family: "Lato", sans-serif;
 }
 
-img {
-    pointer-events: none;
+body {
+    padding-top: 150px;
 }
 
-body {
-    height: 2000px;
+img {
+    pointer-events: none;
 }
 
 .navbar {
