@@ -1,0 +1,40 @@
+body{
+	display: flex;
+	flex-flow: column wrap;
+}
+
+main{
+	width: 80%;
+	margin-left: 80px;
+}
+div{
+	display: block;
+}
+.desc{
+	width: 50%;
+	display: inline-block;
+	position: relative;
+	left: 20px;
+	margin-left: 15px;
+	margin-right: 15px;
+}
+
+
+.even-project{
+	display: block;
+	text-align: right;
+
+}
+
+img{
+	width: 200px;
+	float: right;
+	margin-right: 15px;
+	margin-left: 15px;
+}
+
+p{
+	margin-right: 15px;
+	margin-left: 15px;
+	text-align: left;
+}
