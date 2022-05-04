@@ -2,9 +2,10 @@
 ![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)![forthebadge](https://forthebadge.com/images/badges/built-with-swag.svg)![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)![forthebadge](https://forthebadge.com/images/badges/open-source.svg)![forthebadge](https://forthebadge.com/images/badges/uses-git.svg)![forthebadge](https://forthebadge.com/images/badges/uses-html.svg)![forthebadge](https://forthebadge.com/images/badges/uses-css.svg)![forthebadge](https://forthebadge.com/images/badges/uses-js.svg)![forthebadge](https://forthebadge.com/images/badges/validated-html5.svg)
 
 ## Robotics Club BMU
+
 Robotics Club is to provide students a place to pursue their interest in both mechanical, electronic, and computer science by working on large and small-scale robotics projects. The club is open to students with and without experience in engineering and programming. Teams within the club will design, build, and program functioning robots using a variety of resources. We offer students a variety of workshops so that they are able to learn and explore. It is a place for all tech enthusiasts to explore their interests and capabilities. They would be taught by peers as well as the technical expertise in this field.
 
-Our goal is to encourage students to design accessible, innovative projects that build self-confidence, knowledge, and life skills while motivating young people to pursue opportunities in science, technology, and engineering. Opportunities may include outside competitions such as techfest IIT BOMBAY, the world robotics championship (TECHNOXIAN), and inside competition within the campus.
+Our goal is to encourage students to design accessible, innovative projects that build self-confidence, knowledge, and life skills while motivating young people to pursue opportunities in science, technology, and engineering. Opportunities may include the outside competitions such as techfest IIT BOMBAY, the world robotics championship (TECHNOXIAN), and inside competition within the campus.
 
 <h3 align="center">
     <a href="https://discord.gg/p59fjVvymq">👋 join our discord community <strong>Robotics Club BMU</strong> </a>
